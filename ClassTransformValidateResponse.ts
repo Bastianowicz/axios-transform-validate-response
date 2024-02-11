@@ -6,8 +6,6 @@ import axios, {InternalAxiosRequestConfig} from "axios";
  * This is our default response transformer. It will transform the response to a class instance if the request config
  * has a classTransformConfig. It will also validate the class instance and throw an error if the validation fails.
  * Just configure the classTransformConfig in the request config and the response will be transformed.
- *
- * ToDo: Release this as a package
  */
 export function classTransformValidateResponse<T extends Object>(
     this: InternalAxiosRequestConfig, data: string

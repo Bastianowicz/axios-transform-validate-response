@@ -10,3 +10,4 @@ declare module "axios" {
         };
     }
 }
+export * from './ClassTransformValidateResponse';
