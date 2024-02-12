@@ -20,3 +20,10 @@ await axios.get('https://api.example.com', {
     }
 });
 ```
+
+### Typings
+To stop your IDE from yelling at you about the `classTransformConfig` property, you can add the following typings to your project:
+
+```typescript
+export * from "axios-transform-validate-response";
+```
