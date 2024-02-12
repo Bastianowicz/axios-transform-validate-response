@@ -1,19 +1,23 @@
 {
   "name": "axios-transform-validate-response",
-  "version": "1.0.0",
-  "description": "Plugin to transform and validate axios responses using typestack class-transformer and class-validater.",
-  "main": "dist/ClassTransformValidateResponse.js.js",
+  "version": "1.0.2",
+  "description": "Plugin to transform and validate axios responses using typestack class-transformer and class-validator.",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "prepublish": "npm run test && npm run build",
-    "publish": "npm publish"
+    "prepublishOnly": "npm run test && npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:Bastianowicz/axios-transform-validate-response.git"
   },
-  "types": "index.d.ts",
+  "files": [
+    "dist",
+    "readme.md",
+    "LICENSE"
+  ],
+  "types": "dist/index.d.ts",
   "keywords": [
     "axios",
     "typestack",
