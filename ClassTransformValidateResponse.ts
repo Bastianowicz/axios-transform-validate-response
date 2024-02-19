@@ -14,9 +14,15 @@ export function classTransformValidateResponse<T extends Object>(
     if (!this.classTransformConfig) {
         return plain;
     }
-    const nestedPlain = this.classTransformConfig.dataRetriever
-        ? this.classTransformConfig.dataRetriever(plain)
-        : plain;
+    let nestedPlain = plain;
+    try {
+        if(this.classTransformConfig.dataRetriever) {
+            nestedPlain = this.classTransformConfig.dataRetriever(plain);
+        }
+    } catch (e) {
+        console.error(e);
+        return data;
+    }
     const classInstance = plainToInstance(
         this.classTransformConfig.targetClass,
         nestedPlain,
