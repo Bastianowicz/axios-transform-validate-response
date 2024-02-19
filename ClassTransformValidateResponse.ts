@@ -21,6 +21,10 @@ export function classTransformValidateResponse<T extends Object>(
         }
     } catch (e) {
         console.error(e);
+        // we exit early because the dataRetriever failed. This may happen if we receive an error
+        // body instead of the expected success response. If we exited ungracefully the error
+        // would be swallowed. this could lead to unexpected behavior in interceptors because they'd
+        // only receive a type error.
         return data;
     }
     const classInstance = plainToInstance(
