@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.1](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.1) - 2024-02-19
+
+- [`c26fa19`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/c26fa195e493d3ad31710ddba37404b5831f2173) fix: don't crash-on-error-code (#2)
+- [`b9ac791`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/b9ac791a4cc9e381beb257c5cf4608b7b352edc7) docs: typings
+- [`dd19548`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/dd19548191e2319a8171d812bbb806a0be1df64c) ci: no need to double check tests
+
 ## [v0.1.0](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.0) - 2024-02-12
 
 - [`afff22b`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/afff22bb25843d652f7cd542e7be2da9dde8ed71) ci: fetch-depth needs to be set for uplift to work

@@ -1,6 +1,6 @@
 {
   "name": "axios-transform-validate-response",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin to transform and validate axios responses using typestack class-transformer and class-validator.",
   "main": "dist/index.js",
   "scripts": {
