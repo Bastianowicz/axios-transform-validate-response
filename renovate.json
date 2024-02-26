@@ -5,9 +5,5 @@
     "schedule:earlyMondays",
     "schedule:automergeEarlyMondays"
   ],
-  "packageRules": [
-    {
-      "automerge": true
-    }
-  ]
+  "automerge": true
 }
