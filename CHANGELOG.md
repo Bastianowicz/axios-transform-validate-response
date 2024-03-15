@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.2](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.2) - 2024-03-15
+
+- [`2bd5dc7`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/2bd5dc7714d1bdee8417c98149491d904ef88c9c) fix(deps): update dependency typescript to v5.4.2 (#8)
+- [`4400b1d`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/4400b1db585cf4232cd1ec27b116ac7af6414210) ci: always automerge if possible
+- [`9542667`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/9542667c18e4f2737130e2fdb026fc4c3d9fe3ba) chore(deps): update actions/setup-node action to v4.0.2 (#4)
+- [`388d381`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/388d381889b6f537ba16eadd3a37f026fd8b11d7) ci: renovate insteada dependabot (#6)
+- [`fa87b92`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/fa87b920b92455f38ba6a4eba29f272009b65747) ci: Add renovate.json (#3)
+
 ## [v0.1.1](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.1) - 2024-02-19
 
 - [`c26fa19`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/c26fa195e493d3ad31710ddba37404b5831f2173) fix: don't crash-on-error-code (#2)
