@@ -27,3 +27,7 @@ To stop your IDE from yelling at you about the `classTransformConfig` property, 
 ```typescript
 export * from "axios-transform-validate-response";
 ```
+
+### Test
+
+run `npm test`
