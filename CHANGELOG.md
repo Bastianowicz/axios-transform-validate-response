@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.6](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.6) - 2024-03-25
+
+- [`5ff6e01`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/5ff6e01fc1f2808514fc1a4d53f08dd39bd094e8) fix: Update cd.yml run on ** tags
+
 ## [v0.1.5](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.5) - 2024-03-25
 
 - [`50cfe3d`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/50cfe3d16f03b7a4fb87e4021a3a450eeea6c321) fix: Update README.md
