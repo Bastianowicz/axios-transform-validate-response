@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.4](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.4) - 2024-03-25
+
+- [`147a7a1`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/147a7a108a8a2df0585dddb98a7bc39cfc317f5a) fix: Different Token for tagging new versions
+
 ## [v0.1.3](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.3) - 2024-03-25
 
 - [`093d79c`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/093d79cdc1a63240239dc57cab3fa2ef0774ccf1) fix(deps): update dependency typescript to v5.4.3
