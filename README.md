@@ -30,4 +30,4 @@ export * from "axios-transform-validate-response";
 
 ### Test
 
-run `npm test`
+Run `npm test`
