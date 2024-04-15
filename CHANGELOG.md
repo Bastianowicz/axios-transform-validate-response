@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.9](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.9) - 2024-04-15
+
+- [`a205030`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/a205030207d2634a8f919de22577994873d303d1) fix(deps): update dependency typescript to v5.4.5
+
 ## [v0.1.8](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.8) - 2024-04-10
 
 - [`6f6cf87`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/6f6cf8738469c06a69f1e320d1a976c2c72a79cc) fix(deps): update dependency typescript to v5.4.4 (#10)
