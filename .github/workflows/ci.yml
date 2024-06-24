@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN_UPLIFT }}
       - name: Release
         if: github.ref == 'refs/heads/main'
-        uses: gembaadvantage/uplift-action@v2.0.1
+        uses: gembaadvantage/uplift-action@v2.0.2
         with:
           args: release
         env:
