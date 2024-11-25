@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.16](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.16) - 2024-11-25
+
+- [`7e3fe27`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/7e3fe27f942e3d9db88be61eb822132434e0bed9) fix(deps): update dependency typescript to v5.7.2 (#30)
+- [`3486c32`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/3486c3248caa854e589112ca4726e36f214bcbde) chore(deps): update actions/setup-node action to v4.1.0 (#29)
+- [`5696e80`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/5696e8098e6947faefb1e1fc7ba05c62c9cde74b) chore(deps): update dependency @types/jest to v29.5.14
+- [`50eb108`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/50eb1086f46f7c3db3d52af77da07d81c41f7d8e) chore(deps): update dependency axios-mock-adapter to v2.1.0
+
 ## [v0.1.15](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.15) - 2024-10-21
 
 - [`3dc0ee4`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/3dc0ee44cb3c461661bba315c14498e8b00bfaf5) fix(deps): update dependency typescript to v5.6.3
