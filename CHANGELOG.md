@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.20](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.20) - 2025-08-18
+
+- [`9e5983c`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/9e5983cb8ee37cdd8848c15e41b4a4e368151107) fix(deps): update dependency typescript to v5.9.2 (#46)
+- [`fdce528`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/fdce528f03a3cd2ff446a5acc4102dd1994e21aa) chore(deps): update dependency ts-jest to v29.4.1 (#45)
+- [`75034c6`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/75034c62e12104523aeb04fa2d72602b4a894f4c) chore(deps): update dependency jest to v30.0.5 (#44)
+- [`a84d4b9`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/a84d4b922288056824ba88edf09bd6cacb79f1d6) chore(deps): update dependency jest to v30.0.4 (#43)
+- [`3b61f2d`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/3b61f2ddc18aa597fe41d6772f32f73272971970) chore(deps): update jest monorepo to v30 (#42)
+- [`2ea4c93`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/2ea4c93ecafbc0d943e8a18cb33cc3fd8599deb2) chore(deps): update dependency ts-jest to v29.4.0 (#41)
+- [`245a0ef`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/245a0ef8dc427079d60f71bae09e1e7a63028725) chore(deps): update dependency ts-jest to v29.3.4 (#40)
+- [`4ab63c6`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/4ab63c68db83457e5f0a2b75def98813137cfe9f) chore(deps): update actions/setup-node action to v4.4.0 (#39)
+- [`a66a627`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/a66a6276e9c868bbe562709d70ccb04ea25aba91) chore(deps): update dependency ts-jest to v29.3.2 (#38)
+
 ## [v0.1.19](https://github.com/Bastianowicz/axios-transform-validate-response/releases/tag/v0.1.19) - 2025-04-14
 
 - [`8317feb`](https://github.com/Bastianowicz/axios-transform-validate-response/commit/8317febad8d6c038c62e97e7d37755b99a5b195c) fix(deps): update dependency typescript to v5.8.3 (#37)
