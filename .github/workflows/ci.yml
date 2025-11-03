@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v6.0.0
         with:
-          node-version: 22
+          node-version: 24
       - name: Install dependencies client
         run: |
           npm i --force
